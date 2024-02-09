@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<rom-definition version="1.0">
+    <rom type="cartridge" title="Breakout" version="1.0" />
+    <binary path="breakout.vbin" />
+    <textures>
+        <texture path="BreakoutTextures.vtex" />
+    </textures>
+    <sounds />
+</rom-definition>

@@ -1,0 +1,7 @@
+Things to know before running LetterPuzzleEncoded:
+==========================================================================================
+All you need to do is run the program. You will be prompted to either enter 1 to generate
+a random encoding OR 2 to create your own encoding. Once either one is done the encoding,
+along with the puzzle, will be displayed. 
+==========================================================================================
+

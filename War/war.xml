@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<rom-definition version="1.0">
+    <rom type="cartridge" title="WAR" version="1.0" />
+    <binary path="war.vbin" />
+    <textures>
+        <texture path="52CardsV2.vtex" />
+    </textures>
+    <sounds />
+</rom-definition>
