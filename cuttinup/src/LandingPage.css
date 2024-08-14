@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); /* Pixelated font */
+
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #0f0e17; /* Dark, night-market background */
+  color: #ffcc00; /* Neon yellow text */
+  font-family: 'Press Start 2P', cursive; /* Pixelated font style */
+  text-align: center;
+}
+
+.options {
+  margin-top: 20px;
+}
+
+.option-button {
+  display: block;
+  margin: 10px 0;
+  padding: 15px 30px;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #ff007f; /* Neon pink background */
+  border: 3px solid #00f6ff; /* Neon cyan border */
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.option-button:hover {
+  background-color: #ffa500; /* Neon orange on hover */
+  transform: scale(1.1);
+}
+
+.option-button:active {
+  transform: scale(0.9);
+}
